@@ -3918,8 +3918,7 @@ p {
 ===========================*/
 .footer-area {
   position: relative;
-  z-index: 5;
-  padding-top: 150px; }
+  z-index: 5; }
   .footer-area::before {
     position: absolute;
     content: '';
