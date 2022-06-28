@@ -3932,8 +3932,8 @@ p {
     padding-top: 0; }
 
 .footer-widget {
-  padding-top: 110px;
-  padding-bottom: 150px; }
+  padding-top: 50px;
+  padding-bottom: 50px; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .footer-widget {
       padding-bottom: 95px;
@@ -6632,4 +6632,8 @@ height: 120px;
 .award-verification-btn{
   color: white;
   background-color: #EC7482;
+}
+.quick-links-para-text {
+  color: #EC7482;
+  text-decoration: underline;
 }
