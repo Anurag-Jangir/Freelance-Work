@@ -2907,7 +2907,7 @@ p {
      07.Campus Visit css 
 ===========================*/
 .campus-visit-area {
-  padding-top: 160px;
+  padding-top: 100px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .campus-visit-area {
@@ -3109,10 +3109,10 @@ p {
 }
 .campus-content p {
   font-weight: 500;
-  font-size: 18px;
-  line-height: 30px;
+  font-size: 21px;
+  line-height: 32px;
   color: #07294d;
-  margin-top: 25px;
+  margin-top: 23px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .campus-content p {
@@ -9161,4 +9161,17 @@ p {
 .quick-links-para-text {
   color: #ec7482;
   text-decoration: underline;
+}
+
+.bg-overlay {
+  background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("../images/History/Oxford-history\ 2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+  height: 450px;
+  padding-top: 50px;
+  box-shadow: 0px 0px 20px 4px #000000e0;
+  margin-top: 20px;
+  border-radius: 10px;
 }
