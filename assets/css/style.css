@@ -15,6 +15,7 @@ body {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 img {
@@ -1636,7 +1637,7 @@ p {
 
 /*===== Features 2 =====*/
 .features-area-2 {
-  padding-top: 160px;
+  padding-top: 80px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .features-area-2 {
@@ -2907,7 +2908,7 @@ p {
      07.Campus Visit css 
 ===========================*/
 .campus-visit-area {
-  padding-top: 100px;
+  padding-top: 60px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .campus-visit-area {
@@ -4719,7 +4720,7 @@ p {
 
 /*===== Counter 2 =====*/
 .counter-area-2 {
-  padding-top: 160px;
+  padding-top: 100px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .counter-area-2 {
@@ -4735,7 +4736,8 @@ p {
 .counter-wrapper-2 {
   position: relative;
   z-index: 5;
-  padding: 55px 60px 85px;
+  padding: 55px 60px 67px;
+  margin-bottom: 84px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .counter-wrapper-2 {
